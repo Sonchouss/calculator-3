@@ -1,0 +1,20 @@
+C:\Users\USER\source\repos\sonia calculator\bin\Debug\sonia calculator.exe.config
+C:\Users\USER\source\repos\sonia calculator\bin\Debug\sonia calculator.exe
+C:\Users\USER\source\repos\sonia calculator\bin\Debug\sonia calculator.pdb
+C:\Users\USER\source\repos\sonia calculator\obj\Debug\sonia calculator.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\sonia calculator\obj\Debug\sonia_calculator.Form1.resources
+C:\Users\USER\source\repos\sonia calculator\obj\Debug\sonia_calculator.Properties.Resources.resources
+C:\Users\USER\source\repos\sonia calculator\obj\Debug\sonia calculator.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\sonia calculator\obj\Debug\sonia calculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\sonia calculator\obj\Debug\sonia calculator.exe
+C:\Users\USER\source\repos\sonia calculator\obj\Debug\sonia calculator.pdb
+E:\sonia calculator\obj\Debug\sonia calculator.csprojAssemblyReference.cache
+E:\sonia calculator\obj\Debug\sonia_calculator.Form1.resources
+E:\sonia calculator\obj\Debug\sonia_calculator.Properties.Resources.resources
+E:\sonia calculator\obj\Debug\sonia calculator.csproj.GenerateResource.cache
+E:\sonia calculator\obj\Debug\sonia calculator.csproj.CoreCompileInputs.cache
+E:\sonia calculator\obj\Debug\sonia calculator.exe
+E:\sonia calculator\obj\Debug\sonia calculator.pdb
+E:\sonia calculator\bin\Debug\sonia calculator.exe.config
+E:\sonia calculator\bin\Debug\sonia calculator.exe
+E:\sonia calculator\bin\Debug\sonia calculator.pdb
